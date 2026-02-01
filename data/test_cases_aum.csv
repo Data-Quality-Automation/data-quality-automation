@@ -1,0 +1,4 @@
+fund_id,period,trade_date,units,nav,fx_rate,expected_aum
+FUND_101,DAILY,2024-02-29,1000,10.2,1.0,10200
+FUND_101,MTD,2024-02-29,1000,10.2,1.0,10200
+FUND_102,DAILY,2024-03-01,500,20,1.2,12000
