@@ -4,8 +4,6 @@
 This project implements an automated data quality testing framework for fund valuation data pipelines.  
 The objective is to validate **financial calculation correctness**, **data completeness across pipeline layers**, and **core business rule compliance** using automated, data-driven tests with CI/CD execution.
 
-The framework is intentionally lightweight, maintainable, and aligned with real-world data QA practices in banking and investment management systems.
-
 ---
 
 ## Pipeline Context
